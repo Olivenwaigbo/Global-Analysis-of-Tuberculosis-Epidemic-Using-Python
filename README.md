@@ -31,7 +31,7 @@ The main steps for this project are summarized below:
 
 Global Analysis of Tuberculosis Dashboard | 
 | :---:
-![Dashboard 1 (1)](https://github.com/nuelokoye/Global-Analysis-of-Tuberculosis-Epidermic/assets/110308694/a4203a6c-2658-4139-a88a-882736144876)
+![Dashboard 1 (3)](https://github.com/Olivenwaigbo/Global-Analysis-of-Tuberculosis-Epidemic-Using-Python/assets/110308694/c1801587-9aa5-493f-a339-e8c425febf19)
 
 Click [here](https://public.tableau.com/app/profile/nwaigbo.olive.chika/viz/GlobalAnalysisofTuberculosis_16839046389640/Dashboard1) to view the Interactive Dashboard on Tableu
 
